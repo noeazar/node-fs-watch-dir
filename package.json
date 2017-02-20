@@ -1,0 +1,14 @@
+{
+  "name": "node-fs-watch",
+  "version": "1.0.0",
+  "description": "Short script to watch a directory for changes using the node fs module, process the files and output them to a different directory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noe Azar",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
